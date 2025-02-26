@@ -1,4 +1,4 @@
-# HandsOn_6
+# Hands_On_6
 
 # Problem 1
 
