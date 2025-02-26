@@ -2,13 +2,13 @@
 
 # Problem 1
 
-* Code for QuickSort with Random Pivot  is  [`QuickSortRandom.py`](Quicksort_Random.py)
+* Code for QuickSort with Random Pivot  is  [`Quick Sort Random.py`](Quicksort_Random.py)
 
-* Code for QuickSort with NonRandom Pivot  is  [`QuickSortNonRandom.py`](Quicksort_Non-Random.py)
+* Code for QuickSort with NonRandom Pivot  is  [`Quick Sort Non-Random.py`](Quicksort_Non-Random.py)
 
 # Problem 2
 
-* Code for Benchmark is given [`NonRandomBenchmark.py`](Quicksort_Non-Random_Benchmark.py)
+* Code for Benchmark is given [`Quick_Sort_Non-Random_Benchmark.py`](Quicksort_Non-Random_Benchmark.py)
 <br>
 <br>
 
