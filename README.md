@@ -16,5 +16,5 @@
 
 # Problem 3
 
-![alt text](1002286708_Answer3-1.png)
-![alt text](1002286708_Answer3-2.png)
+![alt text](1002286708_Answer_3-1.jpg)
+![alt text](1002286708_Answer_3-2.jpg)
